@@ -1,5 +1,3 @@
-<img src='./lib/banner.png' />
-
 ## About NST
 
 PT. Nusantara Skuad Teknologi is a Software Development Company based in Batam. We currently offer software development services especially in Batam-Indonesia, Singapore and Malaysia. It is possible that we will serve other areas in Indonesia. Because we continue to develop and improve and strive to provide the best for clients wherever they are.
